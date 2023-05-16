@@ -10,4 +10,4 @@ En tant que développeur, le projet consiste à réfléchir au design du CV(en c
 
 Mettre en pratique les compétences acquises en HTML, CSS pour réaliser une page web simple et responsive. Le projet permet également de réfléchir au design du site, à l'indentation et aux commentaires du code. Ces compétences sont essentielles pour devenir un développeur web efficace et compétent.
 
-Merci 
+Merci Pour votre attention ! 
